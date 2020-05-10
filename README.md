@@ -1,0 +1,2 @@
+# LinqConsoleApp
+ APBD LinqIntro
